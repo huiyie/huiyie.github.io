@@ -7,22 +7,22 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Aaron Ong
+title: Hui Yie - CS3216 & beyond
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Timeline
+      title: Hui Yie, CS3216, and beyond
 
-description: THE description
+description: A blog for CS3216 and beyond :)
 author:
-  name: Aaron Ong
-  email: aaronongcs@gmail.com
-  github: Aaronong
-  linkedin: aaronongcs
-  bio: A Developer's Journey
+  name: Chng Hui Yie
+  email: chng.huiyie@u.nus.edu
+  github: huiyie
+  linkedin: hui-yie-chng-9a469b109
+  bio: CS3216 & beyond
 
 rss_path: feed.xml
 categories_path: categories.html
