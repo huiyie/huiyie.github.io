@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Don't Know JS (1) - Closures
+title: What is the role of programming languages in shaping the way we understand reality? A historical study.
 categories: [Blog, Software Studies]
 tags: [programming, languages]
 description: Midterm paper submitted for NM3238: Software Studies in AY 2016/2017 Semester 1.
