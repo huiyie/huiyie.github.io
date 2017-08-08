@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Hui Yie - CS3216 & beyond
+title: Hui Yie - CS3216 and beyond
 
 defaults:
   -
@@ -22,7 +22,7 @@ author:
   email: chng.huiyie@u.nus.edu
   github: huiyie
   linkedin: hui-yie-chng-9a469b109
-  bio: CS3216 & beyond
+  bio: CS3216 and beyond
 
 rss_path: feed.xml
 categories_path: categories.html
