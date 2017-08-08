@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is the role of programming languages in shaping the way we understand reality? A historical study."
+title: "What is the role of programming languages in shaping the way we understand reality"
 date: 2017-07-22
 categories: [blog, writings]
 tags: [programming, languages]
