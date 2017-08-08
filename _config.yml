@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Timeline
+      title: Hui Yie, CS3216, and beyond
 
-description: THE description
+description: A blog for CS3216 and beyond :)
 author:
   name: Chng Hui Yie
   email: chng.huiyie@u.nus.edu
