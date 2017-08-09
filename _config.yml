@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Hui Yie
+      title: Hui Yie & CS3216
 
 description: A blog for CS3216 and beyond
 author:
@@ -22,7 +22,7 @@ author:
   email: chng.huiyie@u.nus.edu
   github: huiyie
   linkedin: hui-yie-chng-9a469b109
-  bio: CS3216 and beyond :)
+  bio: I don’t think technology can solve any and all problem. But technology can enable people to solve almost any problem :)
 
 rss_path: feed.xml
 categories_path: categories.html
