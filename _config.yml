@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: huiyie-cs3216
 google_analytics: dbyll
-title: Hui Yie - CS3216 and beyond
+title: CS3216 and beyond
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Hui Yie, CS3216, and beyond
+      title: Hui Yie
 
 description: A blog for CS3216 and beyond
 author:
