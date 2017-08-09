@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: huiyie-cs3216
 google_analytics: dbyll
-title: CS3216 and beyond
+title: Hui Yie's blog
 
 defaults:
   -
