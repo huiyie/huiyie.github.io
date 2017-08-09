@@ -8,17 +8,17 @@ tags: [learning, objectives]
 ---
 In setting my learning objectives for CS3216, I looked at it from 1) an individual perspective and 2) a team perspective. 
 
-#### Summary
+## Summary
 
 Individually, I hope to learn how to learn - programming languages, frameworks, developer tools... Ideally I would also want to identify my own weaknesses and learn from the other passionate and intelligent students in my CS3216 batch. On a team level, I hope for us to learn how to work under pressure of tight deadlines, get used to code reviews and UI/UX reviews, and gain some experience persuading users to come onboard our products!
 
-#### Individual level
+## Individual level
 
 ![xkcd: JavaScript]({{ site.url }}/assets/media/javascript.png)
 
 CS3216 will be a great opportunity for me to learn how to learn - which is an invaluable skill for a software developer, seeing as new programming languages and frameworks are frequently introduced, get widely implemented, and become obselete. That's why it's important for us to learn how to learn, by identifying patterns and best practices in languages and frameworks, and so on. Through this class, I will get the opportunity to try using different frontend and backend technologies, and ideally those that I haven't explored in the past through side projects or hackathon projects. Some of the items currently on my "to-learn" list include: Django, React, Go and Scala. I also don't want to just have a surface understanding of these languages/frameworks by hacking things together (although this is a useful skill to have given the pressure of deadlines). So hopefully I can strike a balance between breadth, depth and managing deadlines. One amazing thing about being part of CS3216 is the platform to learn from my peers. I believe each of us come into the class with different skill sets, be in frontend, backend, fullstack, biz dev, design, and so on. By working on different projects, we can look forward to learn from each other and not just simply rely on our professor or TAs to spoonfeed us.
 
-#### Team level
+## Team level
 
 ![meme: Projects]({{ site.url}}/assets/media/projects.png)
 
@@ -26,6 +26,6 @@ Ever had the frustrating moment when you spend more time disagreeing with each o
 
 Secondly, because a lot of students in our CS3216 class seem to have more experience coding than marketing applications to end users, I think this is a safe and controlled environment for us to try working on this portion of a product's life cycle. Ultimately, persuading users to come onboard (or stay with) an application, be in mobile, web or otherwise, ties back to user-oriented design, having good UI/UX and user retention, stickiness of our apps and so on. A well-rounded developer should have solid understanding of these concepts and be able to operationalize them, incorporting the concepts at every step of dev work. 
 
-### Happy National Day!
+## Happy National Day!
 
 ![National Day 2017]({{ site.url }}/assets/media/nationalday.png)
