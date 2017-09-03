@@ -10,7 +10,7 @@ Mad rush towards the final submission deadline for assignment 1! This is the fir
 
 ## Why Use Google Analytics?
 
-![logo: GA]({{ site.url }}/assets/media/ga.png)
+![logo: GA]({{ site.url }}/assets/media/ga.jpg)
 
 Software is never built in isolation from users. Therefore users' interactions with software that we create ought to be of concern to us, whether you are a programmer, a product manager, a designer, a business and marketing guru...
 
