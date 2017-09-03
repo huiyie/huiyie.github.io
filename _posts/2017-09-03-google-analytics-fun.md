@@ -24,6 +24,4 @@ To me, the most obvious reason would be that programmers today cannot work in co
 
 ## By Developers, For Developers
 
-![diagram: GA]({{ site.url}}/assets/media/ga-diagram.svg)
-
 My overall experience with Google Analytics (so far) has been that documentation (https://developers.google.com/analytics/) is up-to-date and easy to understand, with a couple of libraries and SDKs that developers can utilize for tracking depending on your platform of interest (web, android, iOS for example). For my peers who are also using React on the frontend, you might find react-ga (https://github.com/react-ga/react-ga), an open-source React Google Analytics module, to be useful. Just npm it :-)
