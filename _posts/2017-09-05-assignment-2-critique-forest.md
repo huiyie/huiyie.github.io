@@ -12,9 +12,9 @@ As part of Assignment 2: Application Seminar, I will be reviewing the productivi
 
 During class on Monday, Team Forest presented a well-researched analysis of Forest's strength, weakness and business model. Here I will summarize the main points from their presentation:
 
-  Strengths of Forest: Clean UI, Gamification
-  Weaknesses of Forest: Better social feature (e.g. Whatsapp message & productivity challenges), widgets and notifications to improve customer retention
-  Business model: Direct correlation between smart phone addiction and Forest app usage, however the paid app business model may not be the most ideal monetization strategy. Instead Forest could consider a freemium model in order to win over users on free productivity apps.
+* Strengths of Forest: Clean UI, Gamification
+* Weaknesses of Forest: Better social feature (e.g. Whatsapp message & productivity challenges), widgets and notifications to improve customer retention
+* Business model: Direct correlation between smart phone addiction and Forest app usage, however the paid app business model may not be the most ideal monetization strategy. Instead Forest could consider a freemium model in order to win over users on free productivity apps.
 
 I found the team's conclusion that freemium could be more suitable than paid app model to be extremely insightful. While seemingly counter-intuitive at first glance (isn't it better to make customers pay first and regret later?), their analysis is done in context of the productivity apps space. Many productivity apps, even those that computationally heavy functions (comparative to Forest) such as Meekan, Quip, Canvas, Postify, TinyScan, SyncSpace, as well as similar stay-focused apps, such as Be Focused, Daily Habits and Focus Matrix (on iOS), are currently all available for free. Some of these apps have premium features than can be unlocked by paying customers, or may adopt business models similar to Trello/Asana/Slack that offer enterprise price plans. With a solid product, it is possible to make more profit by offering a "sneak peak" to users and tempting them to switch to a paid subscription.
 
